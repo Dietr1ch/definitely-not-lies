@@ -1,0 +1,4 @@
+* Definitely not lies
+  Este es un sitio de ejemplo en el que se refuta una noticia falsa.
+  El objetivo es mostrar cómo desmentir o apoyar noticias de una manera en que
+  los algorimtos de indexamiento y búsqueda en Internet puedan entender.
